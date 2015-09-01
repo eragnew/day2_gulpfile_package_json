@@ -1,0 +1,21 @@
+{
+  "name": "greet_sead49",
+  "version": "0.1.0",
+  "description": "an example app that greets someone",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "author": "eragnew@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.1.3",
+    "mocha": "^2.3.0"
+  }
+}
